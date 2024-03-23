@@ -1,0 +1,7 @@
+countries Changelog Archive
+
+Contains change notes for versions 0.0.0 (2021-Jul-09) through 0.0.1 (2024-Feb-05).
+More recent changes may be found in CHANGES.md.
+
+*** Release 0.0.1 (2024-Feb-05)
+ * Initial beta release of countries
